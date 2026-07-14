@@ -2,10 +2,11 @@
   {
     "id": "spark-quiz",
     "title": "Spark Quiz Battle",
+    "icon": "https://bonta-patrick.github.io/spark-cdn/icons/Spark.png",
+    "banner": "https://bonta-patrick.github.io/spark-cdn/banners/sparkbanner.png",
     "subtitle": "Bouncy, family-friendly trivia game for the whole couch!",
     "size": "12 KB",
     "category": "PARTY",
     "entryPointUrl": "https://YOUR_GITHUB_USERNAME.github.io/spark-cdn/spark-apps/spark-quiz.jsx",
-    "banner": ""
   }
 ]
