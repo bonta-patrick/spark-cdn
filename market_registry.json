@@ -5,8 +5,8 @@
     "icon": "https://bonta-patrick.github.io/spark-cdn/icons/Spark.png",
     "banner": "https://bonta-patrick.github.io/spark-cdn/banners/sparkbanner.png",
     "subtitle": "Bouncy, family-friendly trivia game for the whole couch!",
-    "size": "12 KB",
+    "size": "121 KB",
     "category": "PARTY",
-    "entryPointUrl": "https://YOUR_GITHUB_USERNAME.github.io/spark-cdn/spark-apps/spark-quiz.jsx"
+    "description": "Engage in quick-fire multiplayer trivia matches natively hosted over regional servers. Supports 1-4 players casting actions instantly from their mobile wands."
   }
 ]
