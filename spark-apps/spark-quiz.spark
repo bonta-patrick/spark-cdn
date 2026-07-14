@@ -1,7 +1,0 @@
-{
-  "id": "spark-quiz",
-  "title": "Spark's Quiz Battle",
-  "description": "Bouncy, family-friendly trivia for the whole couch!",
-  "banner": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='800' height='450' viewBox='0 0 800 450'><defs><linearGradient id='g' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='%238338ec'/><stop offset='100%' stop-color='%233a86ff'/></linearGradient></defs><rect width='100%' height='100%' fill='url(%23g)'/><text x='50%' y='50%' dominant-baseline='middle' text-anchor='middle' font-family='sans-serif' font-weight='900' font-size='64' fill='white' letter-spacing='4'>QUIZ BATTLE</text></svg>",
-  "entryPointUrl": "https://bonta-patrick.github.io/spark-cdn/spark-apps/spark-quiz.jsx"
-}
