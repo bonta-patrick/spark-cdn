@@ -8,5 +8,15 @@
     "size": "121 KB",
     "category": "PARTY",
     "description": "Engage in quick-fire multiplayer trivia matches natively hosted over regional servers. Supports 1-4 players casting actions instantly from their mobile wands."
+  },
+  {
+    "id": "spark-ludo",
+    "title": "Spark's Ludo Battle",
+    "icon": "https://bonta-patrick.github.io/spark-cdn/icons/Spark.png",
+    "banner": "https://bonta-patrick.github.io/spark-cdn/banners/sparkbanner.png",
+    "subtitle": "Experience an exciting, fun and unpredictable party game inspired from Ludo - Spark style. Up to 4 wands can play and battle. The winner gets the crown!",
+    "size": "12 KB",
+    "category": "PARTY",
+    "description": "Engage in fun Ludo games! Up to 4 wands. Experience an exciting, fun and unpredictable party game inspired from Ludo - Spark style. Up to 4 wands can play and battle. The winner gets the crown!"
   }
 ]
