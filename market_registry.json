@@ -18,5 +18,15 @@
     "size": "12 KB",
     "category": "PARTY",
     "description": "Engage in fun Ludo games! Up to 4 wands. Experience an exciting, fun and unpredictable party game inspired from Ludo - Spark style. Up to 4 wands can play and battle. The winner gets the crown!"
-  }
+  },
+  {
+    "id": "buzzer-showdown",
+    "title": "Spark's Triviashow",
+    "icon": "https://bonta-patrick.github.io/spark-cdn/icons/ludo-triviashow-cover.png",
+    "banner": "https://bonta-patrick.github.io/spark-cdn/banners/ludo-triviashow-banner.png",
+    "subtitle": "A high-fidelity trivia modern show built natively for Spark. Battle with your peers and earn the most money. Show the world what you know.",
+    "size": "12 KB",
+    "category": "PARTY",
+    "description": "A high-fidelity trivia modern show built natively for Spark. Battle with your peers and earn the most money. Show the world what you know."
+  },
 ]
